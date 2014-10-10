@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">SwipeRefreshLayoutDemo</string>
+    <string name="hello_world">Hello World</string>
+ 	<string name="touch_here">Touch here to invoke the swipe refresh</string>
+</resources>
